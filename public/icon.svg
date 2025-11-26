@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="display:none;fill:#1a1a1a;stroke-width:2"
+       id="rect1"
+       width="200"
+       height="200"
+       x="-2.0428104e-14"
+       y="-1.6653345e-14" />
+  </g>
+  <g
+     id="layer5">
+    <g
+       id="g4"
+       transform="translate(0,-6.879167)">
+      <g
+         id="g3"
+         transform="matrix(0.77467281,0,0,0.77467281,24.585173,32.917993)">
+        <g
+           id="g2">
+          <g
+             id="g1">
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2"
+               width="15"
+               height="50"
+               x="89.912613"
+               y="42.960442" />
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2-6"
+               width="15"
+               height="50"
+               x="113.35937"
+               y="-109.36222"
+               transform="rotate(69.819074)" />
+          </g>
+          <g
+             id="g1-2"
+             transform="rotate(20.331681,25.805041,211.11064)">
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2-1"
+               width="15"
+               height="50"
+               x="82.412613"
+               y="42.960442" />
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2-6-6"
+               width="15"
+               height="50"
+               x="110.77197"
+               y="-102.32266"
+               transform="rotate(69.819074)" />
+          </g>
+        </g>
+        <g
+           id="g2-1"
+           transform="rotate(-90,97.350598,122.59979)">
+          <g
+             id="g1-8">
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2-9"
+               width="15"
+               height="50"
+               x="89.912613"
+               y="42.960442" />
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2-6-2"
+               width="15"
+               height="50"
+               x="113.35937"
+               y="-109.36222"
+               transform="rotate(69.819074)" />
+          </g>
+          <g
+             id="g1-2-7"
+             transform="rotate(20.331681,25.805041,211.11064)">
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2-1-9"
+               width="15"
+               height="50"
+               x="82.412613"
+               y="42.960442" />
+            <rect
+               style="fill:#f2f2f2;stroke-width:2"
+               id="rect2-6-6-5"
+               width="15"
+               height="50"
+               x="110.77197"
+               y="-102.32266"
+               transform="rotate(69.819074)" />
+          </g>
+        </g>
+      </g>
+      <circle
+         style="fill:#f2f2f2;stroke-width:2"
+         id="path3"
+         cx="77.039238"
+         cy="127.84467"
+         r="5.8100452" />
+      <circle
+         style="fill:#f2f2f2;stroke-width:2"
+         id="path3-9"
+         cx="63.667465"
+         cy="91.454597"
+         r="5.8100452" />
+      <circle
+         style="fill:#f2f2f2;stroke-width:2"
+         id="path3-9-2"
+         cx="136.43019"
+         cy="91.546074"
+         r="5.8100452" />
+      <circle
+         style="fill:#f2f2f2;stroke-width:2"
+         id="path3-3"
+         cx="122.93032"
+         cy="127.88976"
+         r="5.8100452" />
+      <circle
+         style="fill:#f2f2f2;stroke-width:2"
+         id="path3-3-3"
+         cx="99.997078"
+         cy="104.96243"
+         r="5.8100452" />
+    </g>
+  </g>
+</svg>
