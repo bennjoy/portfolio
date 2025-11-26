@@ -48,7 +48,7 @@ export default function HomePage() {
             {/* Second line: "i'm ben worra" */}
             <div className={`transition-all duration-1000 ${isLoaded ? 'opacity-100' : 'opacity-0'}`} style={{ transitionDelay: isLoaded ? '1s' : '0s' }}>
               <h1 className="text-6xl md:text-8xl font-bold tracking-tight items-start text-white">
-                i'm ben worra
+                i&apos;m ben worra
               </h1>
             </div>
             

@@ -3,6 +3,7 @@
 import Header from '@/components/Header';
 import { Girassol } from 'next/font/google';
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 const girassol = Girassol({ weight: '400', subsets: ['latin'] });
 
@@ -126,12 +127,11 @@ export default function AboutPage() {
                     transition: 'transform 0.3s ease'
                   }}
                 >
-                  <img
+                  <Image
                     src="/degree.png"
                     alt="degree"
+                    fill
                     style={{
-                      width: '100%',
-                      height: '100%',
                       objectFit: 'contain'
                     }}
                   />
