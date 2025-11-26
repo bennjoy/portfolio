@@ -59,7 +59,7 @@ export default function HomePage() {
                 
                 {/* Bouncing chevron after "design" completes */}
                 {designChars === designWord.length && (
-                  <a href="/work" className="inline-block animate-bounce" style={{ transitionDelay: '0.3s' }}>
+                  <a href="/about" className="inline-block animate-bounce" style={{ transitionDelay: '0.3s' }}>
                     <span className="text-6xl md:text-8xl text-white font-bold hover:opacity-70 transition-opacity duration-300 cursor-pointer">
                       ›
                     </span>
