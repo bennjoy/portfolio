@@ -131,6 +131,8 @@ export default function AboutPage() {
                     src="/degree.png"
                     alt="degree"
                     fill
+                    priority
+                    sizes="200px"
                     style={{
                       objectFit: 'contain'
                     }}
