@@ -24,6 +24,7 @@ export default function Contact() {
               width={800}
               height={500}
               priority
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 800px"
               className="w-full h-auto rounded-lg"
             />
             
