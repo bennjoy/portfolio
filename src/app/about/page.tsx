@@ -45,7 +45,7 @@ export default function AboutPage() {
   const sections = [
     {
       title: "who i am",
-      content: "I'm ben and I design things. Also I have a masters degree in robotics"
+      content: "I'm Ben and I design things. Also I have a masters degree in robotics. :)"
     },
     {
       title: "what i do",
